@@ -10,9 +10,9 @@ function Footer() {
         <div className="footer-top-left">
           <img src={akash_logo} alt="FOOTER LOGO" />
           <p>
-            I am a full stack developer in MERN from INDIA with 10 years of
-            experience in companies like CG Infinity, Microsoft, Tesla and
-            Apple.{" "}
+            I am a full stack MERN developer from India with 2 years of
+            experience at CG Infinity, creating efficient web applications and
+            ensuring client satisfaction.{" "}
           </p>
         </div>
         <div className="footer-top-right">
